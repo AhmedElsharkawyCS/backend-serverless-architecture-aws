@@ -10,6 +10,6 @@
 - API getaway authorizer
 - lambda function
 - cloudwatch
-- any authentication and authorization platform like `auth0.com` OR use owen auth method
+- any authentication and authorization platform like `auth0.com` OR use your own auth method
 - VPC
 - IAM
